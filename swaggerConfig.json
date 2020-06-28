@@ -1,0 +1,8 @@
+{
+  "swagger": {
+    "outputDirectory": "./docs/v1",
+    "entryFile": "src/index.ts",
+    "yaml": false,
+    "outputFormat": "OpenApi_3"
+  }
+}
